@@ -1,3 +1,6 @@
+#About Buy-Ticket
+  this web site was develop using react js (Context API, useState,useRef, useEffect) and Tailwindcss for style de code html.
+  if u want to use this code, dont forget to check all the dependeces used in packge.json!
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
